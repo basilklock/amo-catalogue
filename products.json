@@ -3,17 +3,37 @@
     "id": "kway-gris-001",
     "name": "Kway \"Crime\"",
     "category": "kway",
-    "description": "Coupe vent léger, inscription \"DON'T DO THE CRIME IF U CAN'T DO THE TIME\" dans le dos. Matière synthétique légère.",
+    "description": "Coupe vent lÃ©ger, inscription \"DON'T DO THE CRIME IF U CAN'T DO THE TIME\" dans le dos. MatiÃ¨re synthÃ©tique lÃ©gÃ¨re.",
     "price": 65,
     "images": [
-      "assets/images/clothes/kway/WhatsApp Image 2026-06-26 at 20.05.44 (1).jpeg",
-      "assets/images/clothes/kway/WhatsApp Image 2026-06-26 at 20.05.44 (2).jpeg"
+      "assets/images/clothes/kway/WhatsApp Image 2026-06-26 at 20.05.44 (2).jpeg",
+      "assets/images/clothes/kway/WhatsApp Image 2026-06-26 at 20.05.44 (1).jpeg"
     ],
     "sizes": [
-      { "size": "S", "stock": 3 },
-      { "size": "M", "stock": 5 },
-      { "size": "L", "stock": 4 },
-      { "size": "XL", "stock": 2 }
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 4
+      },
+      {
+        "size": "XL",
+        "stock": 2
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
     ],
     "active": true
   },
@@ -29,10 +49,22 @@
       "assets/images/clothes/t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (6).jpeg"
     ],
     "sizes": [
-      { "size": "S", "stock": 5 },
-      { "size": "M", "stock": 8 },
-      { "size": "L", "stock": 6 },
-      { "size": "XL", "stock": 3 }
+      {
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "size": "M",
+        "stock": 8
+      },
+      {
+        "size": "L",
+        "stock": 6
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      }
     ],
     "active": true
   },
@@ -47,10 +79,22 @@
       "assets/images/clothes/short+t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (7).jpeg"
     ],
     "sizes": [
-      { "size": "S", "stock": 2 },
-      { "size": "M", "stock": 4 },
-      { "size": "L", "stock": 3 },
-      { "size": "XL", "stock": 1 }
+      {
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      }
     ],
     "active": true
   }
