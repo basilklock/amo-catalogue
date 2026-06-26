@@ -3,7 +3,7 @@
     "id": "kway-gris-001",
     "name": "Kway \"DON'T DO THE CRIME IF U CAN'T DO THE TIME\"",
     "category": "kway",
-    "description": "Coupe vent léger, inscription \"DON'T DO THE CRIME IF U CAN'T DO THE TIME\" dans le dos. Matière synthétique.",
+    "description": "Coupe vent lÃ©ger, inscription \"DON'T DO THE CRIME IF U CAN'T DO THE TIME\" dans le dos. MatiÃ¨re synthÃ©tique.",
     "price": 90,
     "images": [
       "assets/images/clothes/kway/WhatsApp Image 2026-06-26 at 20.05.44 (2).jpeg",
@@ -77,7 +77,7 @@
   },
   {
     "id": "ensemble-gris-001",
-    "name": "Ensemble \"DON'T DO THE CRIME IF U CAN'T DO THE CRIME\"",
+    "name": "Pack \"DON'T DO THE CRIME IF U CAN'T DO THE CRIME\"",
     "category": "ensemble",
     "description": "T-shirt + short assortis, gris. \"DON'T DO THE CRIME\" sur le tee, \"IF U CAN'T DO THE TIME\" sur le short.",
     "price": 100,
