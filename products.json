@@ -45,10 +45,13 @@
     "price": 35,
     "images": [
       "assets/images/clothes/t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (4).jpeg",
-      "assets/images/clothes/t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (5).jpeg",
       "assets/images/clothes/t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (6).jpeg"
     ],
     "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
       {
         "size": "S",
         "stock": 5
@@ -64,6 +67,10 @@
       {
         "size": "XL",
         "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 0
       }
     ],
     "active": true
