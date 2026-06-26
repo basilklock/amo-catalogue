@@ -77,7 +77,7 @@
   },
   {
     "id": "ensemble-gris-001",
-    "name": "Ensemble \"Do The Time\"",
+    "name": "Ensemble \"DON'T DO THE CRIME IF U CAN'T DO THE CRIME\"",
     "category": "ensemble",
     "description": "T-shirt + short assortis, gris. \"DON'T DO THE CRIME\" sur le tee, \"IF U CAN'T DO THE TIME\" sur le short.",
     "price": 55,
@@ -86,6 +86,10 @@
       "assets/images/clothes/short+t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (7).jpeg"
     ],
     "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
       {
         "size": "S",
         "stock": 2
@@ -101,6 +105,10 @@
       {
         "size": "XL",
         "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
       }
     ],
     "active": true
