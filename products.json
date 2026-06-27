@@ -112,5 +112,43 @@
       }
     ],
     "active": true
+  },
+  {
+    "id": "t-shirt-test1-ixhu",
+    "name": "test1",
+    "category": "t-shirt",
+    "description": "test1",
+    "price": 34,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782554033/qrkcwobgp3a9qijbdgj8.png",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782554033/qrkcwobgp3a9qijbdgj8.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "active": true
   }
 ]
