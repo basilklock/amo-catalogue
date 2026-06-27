@@ -113,43 +113,5 @@
       }
     ],
     "active": true
-  },
-  {
-    "id": "t-shirt-testtt-ob8x",
-    "name": "testtt",
-    "category": "t-shirt",
-    "description": "rr",
-    "price": 33,
-    "images": [
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782560503/s8wtculmfxhflvrw7qc8.png",
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782560504/lc9axtfkwahe0mebs9xq.png"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 1
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "active": true
   }
 ]
