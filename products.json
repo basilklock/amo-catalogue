@@ -112,42 +112,5 @@
       }
     ],
     "active": true
-  },
-  {
-    "id": "autre-test-0p4y",
-    "name": "test",
-    "category": "autre",
-    "description": "test",
-    "price": 37,
-    "images": [
-      "assets/images/products/photo-1782551325759.png"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 1
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "active": true
   }
 ]
