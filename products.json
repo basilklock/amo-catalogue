@@ -112,5 +112,43 @@
       }
     ],
     "active": true
+  },
+  {
+    "id": "t-shirt-test-wu4s",
+    "name": "test",
+    "category": "t-shirt",
+    "description": "test",
+    "price": 32,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782553676/sy980asmrryhgvtaxx6j.png",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782553676/sy980asmrryhgvtaxx6j.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "active": true
   }
 ]
