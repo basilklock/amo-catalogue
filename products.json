@@ -113,5 +113,42 @@
       }
     ],
     "active": true
+  },
+  {
+    "id": "t-shirt-test-vbiy",
+    "name": "test",
+    "category": "t-shirt",
+    "description": "fe",
+    "price": 43,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782560211/zbm2naxuy8fyndljahkv.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "active": true
   }
 ]
