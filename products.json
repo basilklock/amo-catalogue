@@ -112,5 +112,42 @@
       }
     ],
     "active": true
+  },
+  {
+    "id": "t-shirt-test-0yn2",
+    "name": "test",
+    "category": "t-shirt",
+    "description": "test",
+    "price": 43,
+    "images": [
+      "assets/images/products/photo-1782551963993.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "active": true
   }
 ]
