@@ -112,42 +112,5 @@
       }
     ],
     "active": true
-  },
-  {
-    "id": "t-shirt-test3-snmt",
-    "name": "test3",
-    "category": "t-shirt",
-    "description": "test3",
-    "price": 213,
-    "images": [
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782554877/znugi95s5wkx4rcrqjxg.png"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 1
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "active": true
   }
 ]
