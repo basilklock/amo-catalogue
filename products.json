@@ -112,42 +112,5 @@
       }
     ],
     "active": true
-  },
-  {
-    "id": "t-shirt-test5-eqyl",
-    "name": "test5",
-    "category": "t-shirt",
-    "description": "test5",
-    "price": 43,
-    "images": [
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782555659/bfuwtgppr2aewwugxpgs.png"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 0
-      },
-      {
-        "size": "M",
-        "stock": 1
-      },
-      {
-        "size": "L",
-        "stock": 0
-      },
-      {
-        "size": "XL",
-        "stock": 0
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "active": true
   }
 ]
