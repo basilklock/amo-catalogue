@@ -112,5 +112,42 @@
       }
     ],
     "active": true
+  },
+  {
+    "id": "t-shirt-test4-dq7e",
+    "name": "test4",
+    "category": "t-shirt",
+    "description": "test4",
+    "price": 412,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782555463/djs9hna2pwzym7p0fc9i.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "active": true
   }
 ]
