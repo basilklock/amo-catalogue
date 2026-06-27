@@ -44,8 +44,9 @@
     "description": "T-shirt coupe classique, gris, logo Amo dans le dos. 100% coton.",
     "price": 40,
     "images": [
-      "assets/images/clothes/t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (4).jpeg",
-      "assets/images/clothes/t-shirt/WhatsApp Image 2026-06-26 at 20.05.44 (6).jpeg"
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782556034/nvgq4xwqgmxtodw2h9vx.png",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782556060/kuo9o6f3bo8etdhzdbxn.jpg",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782556060/t05lgvgscdjgbrxljws2.jpg"
     ],
     "sizes": [
       {
