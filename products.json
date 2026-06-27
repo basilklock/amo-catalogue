@@ -44,9 +44,8 @@
     "description": "T-shirt coupe classique, gris, logo Amo dans le dos. 100% coton.",
     "price": 40,
     "images": [
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782556034/nvgq4xwqgmxtodw2h9vx.png",
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782556060/kuo9o6f3bo8etdhzdbxn.jpg",
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782556060/t05lgvgscdjgbrxljws2.jpg"
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782562333/wtcgfruptgmbjykbfjyu.jpg",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782562333/a0pqps90s2lg4qotmp6j.jpg"
     ],
     "sizes": [
       {
@@ -55,19 +54,19 @@
       },
       {
         "size": "S",
-        "stock": 5
+        "stock": 3
       },
       {
         "size": "M",
-        "stock": 8
+        "stock": 4
       },
       {
         "size": "L",
-        "stock": 6
+        "stock": 3
       },
       {
         "size": "XL",
-        "stock": 3
+        "stock": 1
       },
       {
         "size": "XXL",
