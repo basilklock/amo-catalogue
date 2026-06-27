@@ -5,7 +5,10 @@
     "category": "kway",
     "description": "Coupe vent synthetique.",
     "price": 100,
-    "images": [],
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782559541/ew8owlkm7byc87ufvd3i.jpg",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782559542/yprtmqcbs0us6vv9clj0.jpg"
+    ],
     "sizes": [
       {
         "size": "XS",
