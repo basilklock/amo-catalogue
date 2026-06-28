@@ -38,44 +38,6 @@
     "active": true
   },
   {
-    "id": "tshirt-gris-001",
-    "name": "T-shirt Amo",
-    "category": "t-shirt",
-    "description": "T-shirt coupe classique, gris, logo Amo dans le dos. 100% coton.",
-    "price": 40,
-    "images": [
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782562333/wtcgfruptgmbjykbfjyu.jpg",
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782562333/a0pqps90s2lg4qotmp6j.jpg"
-    ],
-    "sizes": [
-      {
-        "size": "XS",
-        "stock": 0
-      },
-      {
-        "size": "S",
-        "stock": 3
-      },
-      {
-        "size": "M",
-        "stock": 4
-      },
-      {
-        "size": "L",
-        "stock": 3
-      },
-      {
-        "size": "XL",
-        "stock": 1
-      },
-      {
-        "size": "XXL",
-        "stock": 0
-      }
-    ],
-    "active": true
-  },
-  {
     "id": "ensemble-gris-001",
     "name": "Pack \"DON'T DO THE CRIME IF U CAN'T DO THE CRIME\"",
     "category": "ensemble",
