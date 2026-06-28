@@ -37,5 +37,44 @@
       }
     ],
     "costPrice": 15
+  },
+  {
+    "id": "t-shirt-t-shirt-dont-do-the-crime-4t3h",
+    "name": "T-shirt \"DON'T DO THE CRIME\"",
+    "category": "t-shirt",
+    "price": 40,
+    "description": "Composition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672185/qutwdyvuqdoqtc3cu6jv.jpg",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672186/jl6yidqjfyiulc8g8qmq.jpg"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "costPrice": 16
   }
 ]
