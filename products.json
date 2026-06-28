@@ -38,14 +38,14 @@
     "active": true
   },
   {
-    "id": "ensemble-gris-001",
-    "name": "Pack \"DON'T DO THE CRIME IF U CAN'T DO THE CRIME\"",
-    "category": "ensemble",
-    "description": "T-shirt + short assortis, gris. \"DON'T DO THE CRIME\" sur le tee, \"IF U CAN'T DO THE TIME\" sur le short.",
+    "id": "kway-gris-001",
+    "name": "Kway \"DON'T DO THE CRIME IF U CAN'T DO THE TIME\"",
+    "category": "kway",
+    "description": "Coupe vent synthetique \"DON'T DO THE CRIME IF U CAN'T DO THE TIME\"",
     "price": 100,
     "images": [
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782561116/ohmguaawutpfme9v22gx.jpg",
-      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782561116/ysh9csslhqzbg3gww6zp.jpg"
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782561557/m3eagle1evlhgojgztmt.jpg",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782561556/jpztls4u19j1oj4bi3pv.jpg"
     ],
     "sizes": [
       {
@@ -54,19 +54,19 @@
       },
       {
         "size": "S",
-        "stock": 2
-      },
-      {
-        "size": "M",
-        "stock": 4
-      },
-      {
-        "size": "L",
         "stock": 3
       },
       {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 4
+      },
+      {
         "size": "XL",
-        "stock": 1
+        "stock": 2
       },
       {
         "size": "XXL",
@@ -77,7 +77,7 @@
   },
   {
     "id": "t-shirt-tee-dont-do-the-crime-zprv",
-    "name": "Tee \"Don't do the Crime\"",
+    "name": "Tee \"DON'T DO THE CRIME\"",
     "category": "t-shirt",
     "price": 40,
     "description": "T-shirt coupe classique, gris, logo Amo dans le dos. 100% coton.",
