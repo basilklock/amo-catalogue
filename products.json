@@ -114,5 +114,48 @@
       }
     ],
     "costPrice": 22
+  },
+  {
+    "id": "ensemble-ensemble-t-shirt--short-iwqr",
+    "name": "Ensemble (T-shirt + Short)",
+    "category": "ensemble",
+    "price": 90,
+    "description": "T-shirt :\nComposition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.\n\n\nShort :\nComposition :\nShell : Molleton non brossé, 100% Cotton - Organic Ring Spun Carded, Toucher sec\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672711/g7kcioxxgrlljbg0i7zy.jpg",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672711/wposdvv1umqh6xsg6rij.jpg"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "costPrice": 32,
+    "linkedItems": [
+      "t-shirt-t-shirt-dont-do-the-crime-4t3h",
+      "short-short-if-u-cant-do-the-crime-l5p2"
+    ]
   }
 ]
