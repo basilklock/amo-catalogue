@@ -76,5 +76,43 @@
       }
     ],
     "costPrice": 16
+  },
+  {
+    "id": "short-short-if-u-cant-do-the-crime-l5p2",
+    "name": "Short \"IF U CAN'T DO THE CRIME\"",
+    "category": "short",
+    "price": 60,
+    "description": "Composition :\nShell : Molleton non brossé, 100% Cotton - Organic Ring Spun Carded, Toucher sec\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672296/aovzhx6tqyq6i1uktett.jpg"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "costPrice": 22
   }
 ]
