@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "id": "amo-sky-amo-sky-ygq8",
+    "name": "Amo Sky",
+    "category": "amo-sky",
+    "price": 100,
+    "description": "Description\nCapuche doublée\nZip nylon inversé milieu devant avec protège-menton\nManches montées\nPoches passepoilées zippées avec tirettes en gros-grain\nPanneaux latéraux pour un meilleur ajustement\nPoignets partiellement élastiqués\nBas de corps arrondi (plus long au dos) pour une meilleure protection\nOuverture de la capuche et bas de corps ajustables avec stoppeurs en plastique et cordon élastique\nCoutures étanches sur la visière de la capuche et les poches passepoilées\nDemi-lune dans la matière principale au dos du col\nZip intérieur invisible côté cœur et au bas de corps pour un accès facile à la décoration\n\nComposition\nShell: Plain Weave, 100 % polyester recyclé, Fluorine-free DWR\nLining: Mesh, 100% Polyester - Recycled\n\nInstructions d'entretien\nLaver avec des couleurs similaires, ne pas repasser, laver à l’envers. Fermer toutes les fermetures éclair et les boutons pressions avant le lavage.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782671321/b2hhpvjqojihcfxq5oew.jpg",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782671321/aklgb4yf1rbo35kmvddx.jpg"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 5
+      },
+      {
+        "size": "S",
+        "stock": 5
+      },
+      {
+        "size": "M",
+        "stock": 5
+      },
+      {
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "costPrice": 15
+  }
+]
