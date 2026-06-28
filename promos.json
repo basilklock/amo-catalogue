@@ -2,7 +2,13 @@
   "codes": [],
   "shipping": {
     "enabled": true,
-    "rules": []
+    "rules": [
+      {
+        "minItems": 3,
+        "maxItems": 999,
+        "discount": 5
+      }
+    ]
   },
   "promoCodeVisible": true
 }
