@@ -4,7 +4,7 @@
     "name": "Amo Sky",
     "category": "amo-sky",
     "price": 100,
-    "description": "Composition :\nShell : Plain Weave, 100% polyester recyclé, Fluorine-free DWR\nLining : Mesh, 100% Polyester - Recycled\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser, laver à  l'envers. Fermer toutes les fermetures éclair et les boutons pressions avant le lavage.",
+    "description": "Composition :\nShell : Plain Weave, 100% polyester recyclÃ©, Fluorine-free DWR\nLining : Mesh, 100% Polyester - Recycled\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser, laver Ã Â  l'envers. Fermer toutes les fermetures Ã©clair et les boutons pressions avant le lavage.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782671321/b2hhpvjqojihcfxq5oew.jpg",
@@ -36,14 +36,15 @@
         "stock": 0
       }
     ],
-    "costPrice": 15
+    "costPrice": 15,
+    "deliveryPrice": 5
   },
   {
     "id": "t-shirt-t-shirt-dont-do-the-crime-4t3h",
     "name": "T-shirt \"DON'T DO THE CRIME\"",
     "category": "t-shirt",
     "price": 40,
-    "description": "Composition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "description": "Composition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavÃ©s\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672186/jl6yidqjfyiulc8g8qmq.jpg",
@@ -82,7 +83,7 @@
     "name": "Short \"IF U CAN'T DO THE CRIME\"",
     "category": "short",
     "price": 60,
-    "description": "Composition :\nShell : Molleton non brossé, 100% Cotton - Organic Ring Spun Carded, Toucher sec\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "description": "Composition :\nShell : Molleton non brossÃ©, 100% Cotton - Organic Ring Spun Carded, Toucher sec\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672296/aovzhx6tqyq6i1uktett.jpg"
@@ -120,7 +121,7 @@
     "name": "Ensemble (T-shirt + Short)",
     "category": "ensemble",
     "price": 90,
-    "description": "T-shirt :\nComposition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.\n\n\nShort :\nComposition :\nShell : Molleton non brossé, 100% Cotton - Organic Ring Spun Carded, Toucher sec\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "description": "T-shirt :\nComposition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavÃ©s\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.\n\n\nShort :\nComposition :\nShell : Molleton non brossÃ©, 100% Cotton - Organic Ring Spun Carded, Toucher sec\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782672711/g7kcioxxgrlljbg0i7zy.jpg",
