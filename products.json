@@ -74,5 +74,44 @@
       }
     ],
     "active": true
+  },
+  {
+    "id": "t-shirt-tee-dont-do-the-crime-zprv",
+    "name": "Tee \"Don't do the Crime\"",
+    "category": "t-shirt",
+    "price": 40,
+    "description": "T-shirt coupe classique, gris, logo Amo dans le dos. 100% coton.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782667955/jnar6hnjbyvwycrteixe.png",
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782667956/thd0smpfqormsdbaep65.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "costPrice": 16
   }
 ]
