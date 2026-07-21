@@ -200,5 +200,44 @@
     ],
     "costPrice": 6,
     "deliveryPrice": 5
+  },
+  {
+    "id": "t-shirt-t-shirt-amo-ujfs",
+    "name": "T-shirt Amo",
+    "category": "t-shirt",
+    "price": 40,
+    "description": "Un classique de la marque Amo.\nT-shirt blanc en coton avec logo \"Amo\" bleu au centre.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1784664630/vdmhgpyghjjzdqflrgsf.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "costPrice": 6,
+    "deliveryPrice": 5
   }
 ]
