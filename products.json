@@ -4,7 +4,7 @@
     "name": "Amo Sky",
     "category": "amo-sky",
     "price": 100,
-    "description": "Composition :\nShell : Plain Weave, 100 % polyester recyclé, Fluorine-free DWR\nLining : Mesh, 100% Polyester - Recycled\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser, laver à l’envers. Fermer toutes les fermetures éclair et les boutons pressions avant le lavage.\n\nGuide des tailles :\nXS = S / S = M / M = L / L = XL",
+    "description": "Composition :\nShell : Plain Weave, 100â¯% polyester recyclÃ©, Fluorine-free DWR\nLining : Mesh, 100% Polyester - Recycled\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser, laver Ã  lâenvers. Fermer toutes les fermetures Ã©clair et les boutons pressions avant le lavage.\n\nGuide des tailles :\nXS = S / S = M / M = L / L = XL",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782676352/tuekm4yyzgcmq3ncsvmw.png",
@@ -44,7 +44,7 @@
     "name": "T-shirt \"DON'T DO THE CRIME\"",
     "category": "t-shirt",
     "price": 40,
-    "description": "Composition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "description": "Composition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavÃ©s\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782676377/ob9viczvkup0f8egpci1.png",
@@ -84,7 +84,7 @@
     "name": "Short \"IF U CAN'T DO THE CRIME\"",
     "category": "short",
     "price": 60,
-    "description": "Composition :\nShell : Molleton non brossé, 100% Cotton - Organic Ring Spun Carded, Toucher sec\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "description": "Composition :\nShell : Molleton non brossÃ©, 100% Cotton - Organic Ring Spun Carded, Toucher sec\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782679473/rdqwybassbf5x0hcbyyp.png"
@@ -123,7 +123,7 @@
     "name": "Ensemble (T-shirt + Short)",
     "category": "ensemble",
     "price": 90,
-    "description": "T-shirt :\nComposition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.\n\nShort :\nComposition :\nShell : Molleton non brossé, 100% Cotton - Organic Ring Spun Carded, Toucher sec\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "description": "T-shirt :\nComposition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavÃ©s\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.\n\nShort :\nComposition :\nShell : Molleton non brossÃ©, 100% Cotton - Organic Ring Spun Carded, Toucher sec\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lâimprimÃ©, laver et repasser Ã  lâenvers.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782676443/eg4tshznbd9msnictk4x.png",
@@ -160,6 +160,45 @@
       "t-shirt-t-shirt-dont-do-the-crime-4t3h",
       "short-short-if-u-cant-do-the-crime-l5p2"
     ],
+    "deliveryPrice": 5
+  },
+  {
+    "id": "t-shirt-t-shirt-amo-dahy",
+    "name": "T-shirt Amo",
+    "category": "t-shirt",
+    "price": 40,
+    "description": "Un classique de la marque Amo.\nT-shirt blanc en coton avec logo \"Amo\" noir au centre.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1784664380/fgvcwhxolpam1rcl7qjp.jpg"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 4
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "costPrice": 6,
     "deliveryPrice": 5
   }
 ]
