@@ -175,27 +175,27 @@
     "sizes": [
       {
         "size": "XS",
-        "stock": 0
+        "stock": 5
       },
       {
         "size": "S",
-        "stock": 0
+        "stock": 5
       },
       {
         "size": "M",
-        "stock": 4
+        "stock": 5
       },
       {
         "size": "L",
-        "stock": 0
+        "stock": 5
       },
       {
         "size": "XL",
-        "stock": 0
+        "stock": 5
       },
       {
         "size": "XXL",
-        "stock": 0
+        "stock": 5
       }
     ],
     "costPrice": 6,
