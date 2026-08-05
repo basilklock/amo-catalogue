@@ -120,7 +120,11 @@
       }
     ],
     "costPrice": 22,
-    "deliveryPrice": 5
+    "deliveryPrice": 5,
+    "personalizable": {
+      "tshirtColor": false,
+      "flocage": false
+    }
   },
   {
     "id": "ensemble-ensemble-t-shirt--short-iwqr",
