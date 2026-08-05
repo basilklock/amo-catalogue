@@ -131,7 +131,7 @@
     "name": "Ensemble (T-shirt + Short)",
     "category": "ensemble",
     "price": 90,
-    "description": "T-shirt :\nComposition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavÃÂ©s\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lÃ¢ÂÂimprimÃÂ©, laver et repasser ÃÂ  lÃ¢ÂÂenvers.\n\nShort :\nComposition :\nShell : Molleton non brossÃÂ©, 100% Cotton - Organic Ring Spun Carded, Toucher sec\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur lÃ¢ÂÂimprimÃÂ©, laver et repasser ÃÂ  lÃ¢ÂÂenvers.",
+    "description": "T-shirt :\nComposition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.\n\nShort :\nComposition :\nShell : Molleton non brossé, 100% Cotton - Organic Ring Spun Carded, Toucher sec\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1782676443/eg4tshznbd9msnictk4x.png",
@@ -168,7 +168,11 @@
       "t-shirt-t-shirt-dont-do-the-crime-4t3h",
       "short-short-if-u-cant-do-the-crime-l5p2"
     ],
-    "deliveryPrice": 5
+    "deliveryPrice": 5,
+    "personalizable": {
+      "tshirtColor": false,
+      "flocage": false
+    }
   },
   {
     "id": "t-shirt-t-shirt-amo-dahy",
