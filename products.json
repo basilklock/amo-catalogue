@@ -257,7 +257,7 @@
     "name": "T-shirt Amo",
     "category": "t-shirt",
     "price": 40,
-    "description": "Un classique de la marque Amo.\nT-shirt blanc en coton avec double logo \"Amo\" rouge au centre.",
+    "description": "Un classique de la marque Amo.\nT-shirt noir en coton avec double logo \"Amo\" rouge au centre.",
     "active": true,
     "images": [
       "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1786198691/aimqrasqxoitkobkzrf3.png"
