@@ -251,5 +251,48 @@
     ],
     "costPrice": 6,
     "deliveryPrice": 5
+  },
+  {
+    "id": "t-shirt-t-shirt-amo-lomz",
+    "name": "T-shirt Amo",
+    "category": "t-shirt",
+    "price": 40,
+    "description": "Composition :\nShell : Jersey simple grosse maille, 100% Cotton - Organic Ring Spun Carded, Panneaux lavés\n\nInstructions d'entretien :\nLaver avec des couleurs similaires, ne pas repasser sur l’imprimé, laver et repasser à l’envers.",
+    "active": true,
+    "images": [
+      "https://res.cloudinary.com/dlhtg1b8v/image/upload/v1786198691/aimqrasqxoitkobkzrf3.png"
+    ],
+    "sizes": [
+      {
+        "size": "XS",
+        "stock": 3
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "L",
+        "stock": 3
+      },
+      {
+        "size": "XL",
+        "stock": 3
+      },
+      {
+        "size": "XXL",
+        "stock": 3
+      }
+    ],
+    "costPrice": 5,
+    "deliveryPrice": 5,
+    "personalizable": {
+      "tshirtColor": false,
+      "flocage": false
+    }
   }
 ]
